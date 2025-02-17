@@ -3,7 +3,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [Personal Notes](comp1238.md)
-<br>
+
 ## Classes
 ## Monday
 - 10:00 [Fund Of Comp Logic](https://learn.georgebrown.ca/d2l/home/337951)
